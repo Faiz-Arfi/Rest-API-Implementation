@@ -58,7 +58,7 @@ This is a **Spring Boot REST API** that provides CRUD operations for managing de
     git clone https://github.com/Faiz-Arfi/Rest-API-Implementation.git
     ```
     
-2. Change Application Properties as shown in the heading below
+2. Change Application Properties as shown in the heading [Application.properties set-up](https://github.com/Faiz-Arfi/Rest-API-Implementation/edit/main/README.md#%EF%B8%8F-applicationproperties-set-up)
 
 3. Navigate to the project directory:
     
